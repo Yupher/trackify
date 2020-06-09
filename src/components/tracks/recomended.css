@@ -1,0 +1,31 @@
+:root{
+  --primary: rgba(68,142,204,1);
+  --secondary:#8893a6;
+  --dark:#0c0e22;
+  --light:#e6f0f0;
+}
+.recomended  h1{
+  color: var(--dark);
+  margin-bottom: 2px;
+} 
+.recomended p{
+  width:40%;
+  font-size: 18px;
+  margin-bottom: 10px;
+  border-bottom: solid 1px var(--primary);
+}
+.recomended div{
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 5%;
+  padding: 1rem;
+  padding-bottom: 1rem;
+}
+.recomended h3{
+  color: var(--dark);
+  font-size: 18px;
+}
+.recomended a{
+  text-decoration: none;
+  color: var(--primary);
+}

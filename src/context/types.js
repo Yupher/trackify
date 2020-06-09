@@ -1,0 +1,9 @@
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const AUTH_ERROR = 'AUTH_ERRORL';
+export const LOAD_USER = 'LOAD_USER';
+export const LOGOUT = 'LOGOUT';
+export const FAVORATE_TRACK = 'FAVORATE_TRACK';
+export const FAVORATE_ARTIST = 'FAVORATE_ARTIST';
+export const FAVORATE_PLAYLIST = 'FAVORATE_PLAYLIST';
+export const RECOMENDED = 'RECOMENDED';
